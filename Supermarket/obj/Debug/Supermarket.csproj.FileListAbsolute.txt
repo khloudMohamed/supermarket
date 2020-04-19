@@ -1,0 +1,16 @@
+D:\working space\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+D:\working space\Supermarket\Supermarket\obj\Debug\MainWindow.baml
+D:\working space\Supermarket\Supermarket\obj\Debug\MainWindow.g.cs
+D:\working space\Supermarket\Supermarket\obj\Debug\App.g.cs
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket_MarkupCompile.cache
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket.g.resources
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.Cache
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket_MarkupCompile.lref
+D:\working space\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+D:\working space\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+D:\working space\Supermarket\Supermarket\bin\Debug\System.Windows.Interactivity.dll
+D:\working space\Supermarket\Supermarket\bin\Debug\System.Windows.Interactivity.xml
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+D:\working space\Supermarket\Supermarket\obj\Debug\Supermarket.csprojResolveAssemblyReference.cache
